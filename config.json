@@ -1,0 +1,18 @@
+{
+  "train_img_dir":"./dataset",
+  "model_save_dir": "model",
+
+  "image_width": 130,
+  "image_height": 50,
+  "max_length": 4,
+  "image_suffix": "png",
+  "char_set": "0123456789abcdefghijklmnopqrstuvwxyz",
+
+  "train_batch_size": 32,
+  "test_batch_size": 32,
+
+  "acc_stop": 0.99,
+  "loss_stop": 0.001,
+  "cycle_save": 200,
+  "max_epochs": 1000
+}

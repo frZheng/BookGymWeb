@@ -1,0 +1,16 @@
+selenium==3.141.0
+apscheduler
+tensorflow==2.1.0
+numpy==1.18.1
+image
+pillow
+pathlib
+bs4
+requests
+torch
+torchvision
+opencv-python
+opencv-contrib-python
+paramiko
+lxml
+pywin32
